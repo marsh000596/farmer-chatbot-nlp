@@ -9,17 +9,26 @@ https://ieeexplore.ieee.org/xpl/conhome/9725360/proceeding
 Farmers Agriculture Assistance Chatbot 
 
 ##
-Praveen Kumar Maduri1, a), Preeti Dhiman2, b), Manas Raj Shukla3, c), Saurabh 
-Anand4, d), Siddharth Pratap Singh
+
+Praveen Kumar Maduri
+Preeti Dhiman
+Manas Raj Shukla
+Saurabh Anand
+Siddharth Pratap Singh
+
 ##
 Electronics and Instrumentation, Galgotias College of Engineering and Technology, Greater Noida, Uttar 
 Pradesh, India. 
 
 ##
 a) praveen.kumarmaduri@galgotiacollegee.edu 
+
 b) pre.dhiman@galgotiacollege.edu 
+
 c) manasrajshukla@gmail.com 
+
 d) saurabhanandofficial@gmail.com 
+
 e) siddharthzx25@gmail.com 
 
 ##
